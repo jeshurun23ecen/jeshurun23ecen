@@ -21,3 +21,5 @@ DTC - JECRC - BATCH NO.1 TASK 9 - STAKEHOLDER MAPPING: https://lucid.app/lucidsp
 DTC - JECRC - BATCH NO.1 TASK 1 - EMPATHY PROCESS FLOW: https://lucid.app/lucidchart/08dd8e04-aa95-4460-b227-e468bdaf2947/edit?viewport_loc=-463%2C-341%2C3020%2C1333%2C0_0&invitationId=inv_c699fe51-e5a1-4129-9eab-2970d57442ee
 
 DTC - JECRC - BATCH NO.1 TASK 2 - EMPATHY DRIVEN DESIGN SOLUTION: https://lucid.app/lucidspark/6f6ffa42-0a81-4f8c-8889-df0cb5fb79d8/edit?viewport_loc=-1540%2C-663%2C5278%2C2416%2C0_0&invitationId=inv_1538bc11-c30f-453f-abf6-1c370b3bead1
+
+DTC - JECRC - BATCH NO.1 TASK 3 - IDEATION STRATEGY: https://lucid.app/lucidspark/2ca8d09a-4b34-49e5-a8e3-03c78f19d8fe/edit?viewport_loc=-1511%2C-328%2C6228%2C2851%2C0_0&invitationId=inv_b708b9fc-9fb7-4900-b9e0-64871f20c5f4
