@@ -17,3 +17,5 @@ DTC - JECRC- BATCH NO.1- TASK 5 - AGILE BOARD: https://lucid.app/lucidspark/7ac0
 DTC - JECRC - BATCH NO.1 TASK 6 - DESIGN THINKING MODEL: https://lucid.app/lucidspark/14aa9019-6327-4675-9e17-82bcf41189a6/edit?viewport_loc=-10370%2C-2562%2C14724%2C6739%2C0_0&invitationId=inv_b9a43fa8-d7e4-4344-bca6-f39cc685533b
 
 DTC - JECRC - BATCH NO.1 TASK 9 - STAKEHOLDER MAPPING: https://lucid.app/lucidspark/1aa544b5-baf9-474d-b32a-f6c048a7aadc/edit?viewport_loc=-579%2C107%2C3215%2C1472%2C0_0&invitationId=inv_8f4591d9-b8a1-4b92-a583-4ae960bfa831
+
+DTC - JECRC - BATCH NO.1 TASK 1 - EMPATHY PROCESS FLOW: https://lucid.app/lucidchart/08dd8e04-aa95-4460-b227-e468bdaf2947/edit?viewport_loc=-463%2C-341%2C3020%2C1333%2C0_0&invitationId=inv_c699fe51-e5a1-4129-9eab-2970d57442ee
