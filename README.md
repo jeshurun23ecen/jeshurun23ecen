@@ -19,3 +19,5 @@ DTC - JECRC - BATCH NO.1 TASK 6 - DESIGN THINKING MODEL: https://lucid.app/lucid
 DTC - JECRC - BATCH NO.1 TASK 9 - STAKEHOLDER MAPPING: https://lucid.app/lucidspark/1aa544b5-baf9-474d-b32a-f6c048a7aadc/edit?viewport_loc=-579%2C107%2C3215%2C1472%2C0_0&invitationId=inv_8f4591d9-b8a1-4b92-a583-4ae960bfa831
 
 DTC - JECRC - BATCH NO.1 TASK 1 - EMPATHY PROCESS FLOW: https://lucid.app/lucidchart/08dd8e04-aa95-4460-b227-e468bdaf2947/edit?viewport_loc=-463%2C-341%2C3020%2C1333%2C0_0&invitationId=inv_c699fe51-e5a1-4129-9eab-2970d57442ee
+
+DTC - JECRC - BATCH NO.1 TASK 2 - EMPATHY DRIVEN DESIGN SOLUTION: https://lucid.app/lucidspark/6f6ffa42-0a81-4f8c-8889-df0cb5fb79d8/edit?viewport_loc=-1540%2C-663%2C5278%2C2416%2C0_0&invitationId=inv_1538bc11-c30f-453f-abf6-1c370b3bead1
