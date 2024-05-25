@@ -25,3 +25,10 @@ DTC - JECRC - BATCH NO.1 TASK 2 - EMPATHY DRIVEN DESIGN SOLUTION: https://lucid.
 DTC - JECRC - BATCH NO.1 TASK 3 - IDEATION STRATEGY: https://lucid.app/lucidspark/2ca8d09a-4b34-49e5-a8e3-03c78f19d8fe/edit?viewport_loc=-1511%2C-328%2C6228%2C2851%2C0_0&invitationId=inv_b708b9fc-9fb7-4900-b9e0-64871f20c5f4
 
 DTC - JECRC - BATCH NO.1 TASK 8 - INTEFERENCE MAPPING: https://lucid.app/lucidspark/284a4a65-d60d-4076-9ab8-c090f5d497fa/edit?viewport_loc=-2978%2C-759%2C4383%2C2006%2C0_0&invitationId=inv_fa9ae659-3501-4223-987e-2e4ce1c68702
+
+
+DTC - JECRC - BATCH NO.1 TASK 10 - BUSINESS MODEL CANVAS: Business Model Canvas.pdf
+
+DTC - JECRC - BATCH NO.1 TASK 11 - UI TEMPLATE USING FIGMA TOOL: DTC Batch1 UI.pdf
+
+DTC - JECRC - BATCH NO.1 TASK 12 - CUSTOMER JOURNEY MAPPING: Customer journey map.pdf
